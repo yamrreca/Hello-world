@@ -1,2 +1,4 @@
 # Hello-world
-Primer respositorio
+Primer repositorio
+
+Soy un físico aspirante a data scientist.
